@@ -1,5 +1,5 @@
 # Round Robin Source code
-![program file](RoundRobin)
+![program file](RoundRobin_571.c)
 
 # Round Robin sample input output
 ![sample output](RoundRobin_IO_571.JPG)
