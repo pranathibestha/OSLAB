@@ -2,7 +2,7 @@
 ![program file](RoundRobin)
 
 # Round Robin sample input output
-![sample output](programoutput.png.jpeg)
+![sample output](RoundRobin_IO_571.JPG)
 
 # Round Robin Executed input output
-![tested output](testedoutput.png.jpeg)
+![tested output](RoundRobin_IO_571.JPG)
