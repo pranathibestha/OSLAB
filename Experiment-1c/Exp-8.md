@@ -5,4 +5,4 @@
 ![sample output](RoundRobin_IO_571.JPG)
 
 # Round Robin Executed input output
-![tested output](RoundRobin_IO_571.JPG)
+![tested output](RoundRobin_EO_571.JPG)
