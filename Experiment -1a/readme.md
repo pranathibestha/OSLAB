@@ -2,7 +2,7 @@
 ![program file](FCFS.java)
 
 # sample output
-![sample output](programoutput.jpeg)
+![sample output](programoutput.png.jpeg)
 
 # tested output
-![tested output](testedoutput.jpeg)
+![tested output](testedoutput.png.jpeg)
