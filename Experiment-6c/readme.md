@@ -7,5 +7,5 @@
 ![program code](optimal_code3_571.JPG)
 
 # Executed output
-![Executed output](optimal_EO_571.jpeg)
+![Executed output](optimlal_EO_571.jpeg)
 
