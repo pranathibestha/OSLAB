@@ -2,7 +2,7 @@
 ![program file](First-fit_571.c)
 
 #program code
-![program code](Firstfit_code1_571.PNG)
+![program code](First-fit_code1_571.PNG)
 ![program code](First-fit_code2_571.PNG)
 
 # sample output
