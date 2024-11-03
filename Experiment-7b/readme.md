@@ -2,9 +2,9 @@
 ![program file](SECOND.c)
 
 #program code
-![program code](PROGRAM (1).png)
+![program code](PROGRAM(1).png)
 
 
 # Executed output
-![Executed output](OUTPUT (1).png)
+![Executed output](OUTPUT(1).png)
 
